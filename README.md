@@ -7,12 +7,11 @@
 # Michael Albertoni
 <sub>**Gestor de Projetos e aspirante a Cientista de Dados**</sub>
 
-Experiencia em ... x p to ...
+Contador, especialista em gestão estratégica de empresas e gestão de projetos, atuo com gerenciamento de projetos de lançamento de novos produtos, em uma grande indústria farmacêutica.
 
 **Background in:** Python, Machine Learning, Project Management, Team Management, Excel e VBA.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://br.linkedin.com/in/michael-felipe-albertoni-mba-capm-576b0287)
 * [Medium](https://www.medium.com)
 
