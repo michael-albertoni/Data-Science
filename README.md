@@ -18,4 +18,4 @@ Contador, especialista em gestão estratégica de empresas e gestão de projetos
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb - Londres (London, England, United Kingdom):** https://bit.ly/2L2cMwy
+* **Análise dos Dados do Airbnb - Londres (London, England, United Kingdom):** http://bit.ly/3tsnEby
